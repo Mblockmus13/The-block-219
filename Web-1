@@ -65,3 +65,7 @@ Password: <input type="text" name="Password" required>
 <img src="http://vignette2.wikia.nocookie.net/vampirediaries/images/4/4b/FreeVector-Poke-Ball.jpg/revision/latest?cb=20140605095315" alt=Pokeball style="width:304px;hight:228px;">
 <section><strong>Pokemon sun and moon good or bad?</strong></section>
 <p>&copy; The Block company</p>
+
+<form method="post" action="http://poll.pollcode.com/28868295"><div style="background-color:#EEEEEE;padding:2px;width:300px;font-family:Arial;font-size:small;color:#000000;"><div style="padding:2px 0px 4px 2px;"><strong>Pokemon sun or moon</strong></div><div align="center"><input type="radio" name="answer" value="1" id="answer288682951"> <label for="answer288682951">Sun</label> <input type="radio" name="answer" value="2" id="answer288682952"> <label for="answer288682952">Moon</label> <nobr><input type="submit" value=" Vote ">&nbsp;<input type="submit" name="view" value=" View "></nobr></div><div align="right" style="font-size:10px"> <a href="http://pollcode.com/"></a></div></div></form>
+<section><strong>I think that Pokemon sun will be awesome</strong></section>
+<section><strong>What do you think? Vote in the poll to tell me!</strong></section>
